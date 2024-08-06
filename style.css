@@ -2,7 +2,7 @@
     --branco-principal:
     #FFFFFF;
 }
-Body {background-color: var(--cor-de-fundo #167Bf7); }
+Body {background-color: var (--cor-de-fundo #167Bf7); }
 *{ 
    margin: 0; 
    padding: 0;
